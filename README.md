@@ -1,3 +1,5 @@
+![Neovim Preview](/images/nvim-preview.png)
+
 # RSurya99's dotfiles
 a curated list of my config files
 
@@ -5,7 +7,7 @@ a curated list of my config files
 Requires [Neovim](https://neovim.io/) (>= 0.7)
 
 - [tpope/vim-surround](https://github.com/tpope/vim-surround) - Surrounding For Vim
-- [preservim/nerdtree](httpss://github.com/preservim/nerdtree) - NERDTree Sidebar
+- [preservim/nerdtree](https://github.com/preservim/nerdtree) - NERDTree Sidebar
 - [tpope/vim-commentary](https://github.com/tpope/vim-commentary) - Commenting GCC & GC
 - [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - Status Bar
 - [ap/vim-css-color](https://github.com/ap/vim-css-color) - CSS Color Preview
